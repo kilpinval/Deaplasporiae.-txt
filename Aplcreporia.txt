@@ -1,0 +1,25 @@
+es.redhat.com Ebook Desarrollo de aplicaciones asistido por inteligencia artificial para la empresa 3
+Introducción
+El desarrollo de aplicaciones empresariales se encuentra en el medio de una evolución importante, 
+impulsada en gran medida por la creciente aplicación de la inteligencia artificial generativa. Los nuevos 
+enfoques basados en este tipo de inteligencia artificial, como el vibe coding y la codificación con 
+agentes, brindan a los desarrolladores herramientas que los ayudan a escribir código, documentar, 
+depurar e incluso diseñar aplicaciones completas, lo cual aumenta considerablemente la productividad. 
+Estos enfoques cuentan con el respaldo de otras prácticas fundamentales. Al consolidar las prácticas 
+recomendadas y las herramientas de las aplicaciones, la adopción de plataformas internas para 
+desarrolladores (IDP) agiliza los procesos de desarrollo de manera efectiva. La ingeniería de plataformas 
+se democratiza cada vez más, de modo que cada vez más desarrolladores pueden acceder a las 
+herramientas de desarrollo avanzadas. La expansión de la seguridad de la cadena de suministro de 
+software permite establecer un enfoque de seguridad en cada etapa del ciclo de vida de las aplicaciones. 
+Junto con las prácticas asistidas por inteligencia artificial, estos cambios no solo optimizan y mejoran la 
+codificación, sino que también ayudan a reducir la carga cognitiva que recae sobre los desarrolladores, 
+lo que mejora su experiencia y aumenta la eficiencia y la productividad. Al integrar estos enfoques en el 
+ciclo de vida del desarrollo de aplicaciones, las empresas pueden acelerar la distribución y aumentar la 
+capacidad de innovación.
+En este ebook, examinaremos las tendencias y los cambios que redefinen el panorama del desarrollo 
+de aplicaciones, así como las funciones que ofrecen a los equipos de desarrollo de las empresas. 
+También analizaremos las oportunidades y los desafíos que presenta el desarrollo de aplicaciones 
+asistido por inteligencia artificial, y describiremos las formas prácticas en que las empresas pueden 
+mejorar sus procesos, plataformas y equipos. Al adoptar un enfoque integrado, asistido por la 
+inteligencia artificial y que prioriza la seguridad, las empresas pueden posicionarse para aprovechar 
+todos los beneficios que ofrece el desarrollo moderno de aplicaciones empresariales.
